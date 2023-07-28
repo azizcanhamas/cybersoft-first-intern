@@ -1,5 +1,7 @@
 # Intern project.
-https://github.com/azizcanhamas/cybersoft-first-intern/assets/57099416/7fa29899-9ba4-4d54-a593-5e4161bcc293
+https://github.com/azizcanhamas/cybersoft-first-intern/assets/57099416/d144e791-9b9b-4f30-9fb0-aa7d1053a124
+
+
 
 
 # NGINX load balancing practice with Docker containers.
